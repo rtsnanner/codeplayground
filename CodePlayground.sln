@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePlaygroundAPI", "CodePlayground\CodePlaygroundAPI.csproj", "{2F6A2483-94DF-4D8B-A2BF-5FEE158F4BEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodePlaygroundAPI", "CodePlayground\CodePlaygroundAPI.csproj", "{2F6A2483-94DF-4D8B-A2BF-5FEE158F4BEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePlayGroundCmd", "CodePlayGroundCmd\CodePlayGroundCmd.csproj", "{F7D73671-E184-4FED-BDAC-D611C59CCF99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodePlaygroundAPI.Tests", "CodePlaygroundAPI.Tests\CodePlaygroundAPI.Tests.csproj", "{E8168911-2160-4201-B8C7-4054CDF3C139}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{2F6A2483-94DF-4D8B-A2BF-5FEE158F4BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F6A2483-94DF-4D8B-A2BF-5FEE158F4BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F6A2483-94DF-4D8B-A2BF-5FEE158F4BEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F7D73671-E184-4FED-BDAC-D611C59CCF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7D73671-E184-4FED-BDAC-D611C59CCF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7D73671-E184-4FED-BDAC-D611C59CCF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7D73671-E184-4FED-BDAC-D611C59CCF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8168911-2160-4201-B8C7-4054CDF3C139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8168911-2160-4201-B8C7-4054CDF3C139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8168911-2160-4201-B8C7-4054CDF3C139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8168911-2160-4201-B8C7-4054CDF3C139}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
